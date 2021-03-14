@@ -1,0 +1,15 @@
+table {
+    border: solid black;
+}
+.blue td {
+    background: rgb(46, 126, 247);
+}
+.red {
+    background: rgb(248, 158, 158);
+}
+.blue2 {
+    background: rgb(179, 179, 238);
+}
+.gray {
+    background: rgb(214, 214, 214);
+}
