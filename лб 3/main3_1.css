@@ -1,0 +1,51 @@
+body {
+    background: rgb(157, 206, 247);
+}
+
+header h1 {
+    color: blue;
+    margin-left: 500px;
+    font-size: 80px;
+}
+main h2 {
+    color: rgb(95, 0, 0);
+    align-content: center;
+    font-size: 35px;
+}
+.firstblock {
+    display: flex;
+}
+.secondblock {
+    display: flex;
+}
+.thirdblock {
+    display: flex;
+}
+.firstblock, .secondblock, .thirdblock {
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.monday {
+    margin-left: 150px;
+}
+.tuesday {
+    margin-left: 150px;
+}
+.wednesday {
+    margin-left: 150px;
+}
+.thursday {
+    margin-left: 150px;
+}
+.friday {
+    margin-left: 360px;
+}
+main {
+    font-size: 25px;
+}
+.red {
+    color: red;
+}
+strong {
+    color: black;
+}

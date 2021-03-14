@@ -1,0 +1,16 @@
+.green {
+    color: green;
+}
+p {
+    margin: 0px; 
+    padding: 0px;
+} 
+.red {
+    color: red;
+}
+.yellow {
+    color: yellow;
+}
+.brown {
+    color: rgb(185, 100, 51);
+}
